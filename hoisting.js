@@ -15,7 +15,7 @@ function crazy() {
   }
 
   thisIsCrazy();
-  
+
 }
 
 function sayMyName() {
@@ -28,5 +28,5 @@ function sayMyName() {
   var name = "Cricky";
 
   sayMy();
-  
+
 }
